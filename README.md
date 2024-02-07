@@ -17,4 +17,11 @@ name: datafun-06-eda
 ##activate virtual environment
 ``source .venv/bin/activate``
 
+# Install dependencies
+jupyterlab
+pandas
+pyarrow
+matplotlib
+seaborn
+
 
