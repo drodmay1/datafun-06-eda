@@ -11,7 +11,7 @@ name: datafun-06-eda
 ##clone rep to local with git
 ``git clone https://github.com/drodmay1/datafun-06-eda.git``
 
-##Create virtual env with .venv
+##create virtual env with .venv
 ``python3 -m venv .venv``
 
 ##activate virtual environment
