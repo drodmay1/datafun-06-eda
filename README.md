@@ -7,19 +7,19 @@ Project 6 is an opportunity to create your own custom exploratory data analysis 
 I used the following
 https://github.com/mwaskom/seaborn-data/blob/master/flights.csv
 
-It shows the number of passenger og flights by month from 1949 to 1960 from an undisclosed location/airport.
+It shows the number of passengers of flights by month from 1949 to 1960 from an undisclosed location/airport.
 
-year,month,passengers
-1949,January,112
-1949,February,118
-1949,March,132
-1949,April,129
-1949,May,121
-1949,June,135
-1949,July,148
-1949,August,148
-1949,September,136
-1949,October,119
+here's an example of the data set
+
+| Year     | Month    | Passengers |
+|----------|----------|------------|
+| 1949     | January  | 112        |
+| 1949     | February | 118        |
+| 1949     | March    | 132        |
+| 1949     | April    | 129        |
+| 1949     | May      | 121        |
+| 1949     | June     | 135        |
+
 
 # environment setup
 
