@@ -43,4 +43,7 @@ pyarrow
 matplotlib
 seaborn
 
+#create a new notebook in vscode
+david_eda.ipynb
+
 
