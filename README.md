@@ -1,7 +1,10 @@
 # 44608 - project 6 EDA
 
-#Overview
+# Overview
 Project 6 is an opportunity to create your own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+
+# Objective
+Perform and publish a custom EDA project to demnostrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics. The notebook should tell a data story and visually present findings in a clear and engaging manner.
 
 # Dataset
 I used the following
@@ -45,5 +48,55 @@ seaborn
 
 #create a new notebook in vscode
 david_eda.ipynb
+
+# Start of the project
+
+Jupyter notebook was created: david_eda.ipynb
+Title and introduction added
+Markdown cells added
+
+
+# Deliverable Names
+GitHub Repository: datafun-06-eda
+Documentation: README.md
+Notebook: david_eda.ipynb
+
+# External Dependencies imported
+Virtual environment created and activated
+jupyterlab
+pandas
+pyarrow
+matplotlib
+seaborn
+
+# Version Control with Git
+Repository created in GitHub named datafun-06-eda.
+Repository cloned to my local machine.
+
+# Exploratory Data Analysis performed
+Data Acquisition
+Initial Data Inspection
+Initial Descriptive Statistics
+Initial Data Distribution for Numerical Columns
+Initial Data Distribution for Categorical Columns
+Initial Data Transformation and Feature Engineering
+Initial Visualizations
+Initial Storytelling and Presentation
+
+# Resources
+See dataset used for this project
+https://github.com/mwaskom/seaborn-data/blob/master/flights.csv
+
+See Open AI
+https://chat.openai.com/
+
+See Jupyter Notebook
+https://github.com/denisecase/datafun-04-spec/JUPYTER.md
+
+See Markdown syntax and recomendations
+https://github.com/denisecase/datafun-04-spec/MARKDOWN.md
+
+
+
 
 
